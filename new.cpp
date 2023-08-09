@@ -13,8 +13,8 @@ void quicksort(){
 void mergesort(){
     //
 }
-ghjk;
 int main(){
     cout<<"hello world";
     cout<<"hii raushan ";
+    cout<<"testing is on ging";
 }
