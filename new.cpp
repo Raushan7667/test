@@ -13,7 +13,7 @@ void quicksort(){
 void mergesort(){
     //
 }
-gfojopokso;
+ghjk;
 int main(){
     cout<<"hello world";
     cout<<"hii raushan ";
