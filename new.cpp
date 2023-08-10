@@ -17,4 +17,5 @@ int main(){
     cout<<"hello world";
     cout<<"hii raushan ";
     cout<<"testing is on ging";
+    hii;
 }
