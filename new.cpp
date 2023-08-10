@@ -13,9 +13,12 @@ void quicksort(){
 void mergesort(){
     //
 }
+
+
 int main(){
     cout<<"hello world";
     cout<<"hii raushan ";
-    cout<<"testing is on ging";
-    hii;
+    cout<<"testing is not going";
+          raushan;
 }
+
