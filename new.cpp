@@ -19,6 +19,6 @@ int main(){
     cout<<"hello world";
     cout<<"hii raushan ";
     cout<<"testing is not going";
-          raushan;
+          cout<<"this is second time eaditing";
 }
 
